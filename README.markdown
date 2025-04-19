@@ -100,8 +100,8 @@ Follow these steps to set up and run AcademicHub on your local machine:
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as needed.
 
 ## Author
-- **Name**: [Your Friend's Name]
-- **ID**: [Your Friend's Student ID]
+- **Name**: Salauddin Majumder
+- **ID**: 212-15-4227
 
 ## Acknowledgments
 - Built as part of a Software Engineering lab assignment.
