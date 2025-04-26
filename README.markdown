@@ -96,14 +96,8 @@ Follow these steps to set up and run AcademicHub on your local machine:
 ## Screenshots
 *(Optional: Add screenshots here to showcase the UI, such as the registration form, student list table, or enrollment history page.)*
 
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it as needed.
+
 
 ## Author
 - **Name**: Salauddin Majumder
 - **ID**: 212-15-4227
-
-## Acknowledgments
-- Built as part of a Software Engineering lab assignment.
-- Styled with [Tailwind CSS](https://tailwindcss.com/) for a modern, responsive design.
-- Inspired by best practices in web development and accessibility standards.
