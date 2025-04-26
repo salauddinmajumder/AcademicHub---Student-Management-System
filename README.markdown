@@ -93,8 +93,6 @@ Follow these steps to set up and run AcademicHub on your local machine:
 - **XSS**: Mitigated with `htmlspecialchars` for user inputs.
 - **Validation**: Both client-side (JavaScript) and server-side (PHP) validation ensure data integrity.
 
-## Screenshots
-*(Optional: Add screenshots here to showcase the UI, such as the registration form, student list table, or enrollment history page.)*
 
 
 
